@@ -11,7 +11,7 @@ title                    : "Jiajun Tang"
 title_separator          : "-"
 name                     : &name "Jiajun Tang"
 description              : &description "personal description"
-domain                   : chemjeff.github.io
+domain                   : me.jeffreet.com
 url                      : https://chemjeff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChemJeff/ChemJeff.github.io"
