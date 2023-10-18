@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing the Ph.D. degree under the advision of Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/People.htm) at [Camera Intelligence Lab](https://ci.idm.pku.edu.cn/), [Institute of Digital Media (NERCVT)](https://idm.pku.edu.cn), [School of CS](https://cs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My current research interest lies on Computational Photography and Computer Vision.
+I am currently pursuing the Ph.D. degree under the advisory of Prof. [Boxin Shi](https://ci.idm.pku.edu.cn/People.htm) at [Camera Intelligence Lab](https://ci.idm.pku.edu.cn/), [Institute of Digital Media (NERCVT)](https://idm.pku.edu.cn), [School of CS](https://cs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My current research interest lies on Computational Photography and Computer Vision.
 
 Education
 ======
