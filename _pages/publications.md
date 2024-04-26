@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=UBy9z8wAAAAJ">my Google Scholar profile</a>.
+You can also find a list of my publications on <a href="https://scholar.google.com/citations?user=UBy9z8wAAAAJ">Google Scholar</a>.
 
 {% include base_path %}
 
@@ -17,4 +17,4 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   {% include archive-single.html %}
 {% endfor %}
 
-Last updated: Oct. 10, 2023
+Last updated: Apr. 26, 2024
