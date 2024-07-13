@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing the Ph.D. degree under the advisory of Prof. [Boxin Shi](https://camera.pku.edu.cn/team) at [Camera Intelligence Lab](https://camera.pku.edu.cn), [Institute of Digital Media (NERCVT)](https://idm.pku.edu.cn), [School of CS](https://cs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My current research interest lies on 3D Computer Vision: Lighting Estimation, Reconstruction, Inverse Rendering, and Generation.
+I am currently pursuing a Ph.D. degree under the advisory of Prof. [Boxin Shi](https://camera.pku.edu.cn/team) at [Camera Intelligence Lab](https://camera.pku.edu.cn), [Institute of Digital Media (NERCVT)](https://idm.pku.edu.cn), [School of CS](https://cs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My current research interest lies in 3D Computer Vision: Lighting Estimation, Reconstruction, Inverse Rendering, and Generation.
 
 Education
 ======
@@ -22,12 +22,16 @@ Experience
 * July 2019 ~ Present: Research Assistant
   * Institute of Digital Media (NERCVT), School of CS, Peking University
 
+* June 2024 ~ Present: Research Intern
+  * Huawei Noah's Ark Lab, China
+  * Research on 3D Reconstruction and Inverse Rendering
+
 * October 2023 ~ April 2024: Research Intern
-  * Light Illusions, China
+  * LightIllusions, China
   * Research on Neural Rendering and Inverse Rendering
   * Mentor: Prof. [Ping Tan](https://ece.hkust.edu.hk/pingtan)
 
 * June 2020 ~ Sept. 2020: Research Intern 
   * Pengcheng Lab, China
 
-Last updated: Apr. 26, 2024
+Last updated: Jul. 13, 2024
