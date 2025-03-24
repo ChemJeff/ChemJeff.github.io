@@ -22,7 +22,7 @@ Experience
 * July 2019 ~ Present: Research Assistant
   * Institute of Digital Media (NERCVT), School of CS, Peking University
 
-* June 2024 ~ Present: Research Intern
+* June 2024 ~ December 2024: Research Intern
   * Huawei Noah's Ark Lab, China
   * Research on 3D Reconstruction and Inverse Rendering
 
@@ -34,4 +34,4 @@ Experience
 * June 2020 ~ Sept. 2020: Research Intern 
   * Pengcheng Lab, China
 
-Last updated: Jul. 13, 2024
+Last updated: Mar. 24, 2025
