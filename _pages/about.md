@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working at [vivo](https://www.vivo.com) as a research engnieer. Before that, I obtained my Ph.D. degree under the advisory of Prof. [Boxin Shi](https://camera.pku.edu.cn/team) at [Camera Intelligence Lab](https://camera.pku.edu.cn), [Institute of Visual Technology (NERCVT)](https://idm.pku.edu.cn), [School of CS](https://cs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). Although fully occupied now, I still interest in research areas of 3D Computer Vision: Lighting Estimation, Reconstruction, Inverse Rendering, and Generation. If you are interested in **internship at vivo or collaboration of research**, please feel free to contact me.
+I am currently working at [vivo](https://www.vivo.com) as a research engnieer. Before that, I obtained my Ph.D. degree under the advisory of Prof. [Boxin Shi](https://camera.pku.edu.cn/team) at [Camera Intelligence Lab](https://camera.pku.edu.cn), [Institute of Visual Technology (NERCVT)](https://idm.pku.edu.cn), [School of CS](https://cs.pku.edu.cn), [Peking University](https://www.pku.edu.cn). Although fully occupied now, I am still interested in research areas of 3D Computer Vision: Lighting Estimation, Reconstruction, Inverse Rendering, and Generation. If you are interested in **internship at vivo or collaboration of research**, please feel free to contact me.
 
 Education
 ======
