@@ -82,9 +82,9 @@ analytics:
 # Site Author
 author:
   name             : "Jiajun Tang"
-  avatar           : "undergraduate.jpeg"
-  bio              : "Ph.D Student, School of CS, Peking University"
-  location         : "Beijing, China"
+  avatar           : "graduate.jpeg"
+  bio              : "research engineer @ vivo"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UBy9z8wAAAAJ"
